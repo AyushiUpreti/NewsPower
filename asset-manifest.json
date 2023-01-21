@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/NewsPower/static/css/main.abd64e84.css",
+    "main.js": "/NewsPower/static/js/main.6a3707b6.js",
+    "static/js/787.4c026eef.chunk.js": "/NewsPower/static/js/787.4c026eef.chunk.js",
+    "static/media/loading.gif": "/NewsPower/static/media/loading.0c2993480d0ca8008754.gif",
+    "index.html": "/NewsPower/index.html",
+    "main.abd64e84.css.map": "/NewsPower/static/css/main.abd64e84.css.map",
+    "main.6a3707b6.js.map": "/NewsPower/static/js/main.6a3707b6.js.map",
+    "787.4c026eef.chunk.js.map": "/NewsPower/static/js/787.4c026eef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.6a3707b6.js"
+  ]
+}
