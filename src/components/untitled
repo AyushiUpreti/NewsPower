@@ -1,0 +1,8 @@
+<Route exact path="/business" component={<News pageSize={5} country="in" category="business"/>}/>
+<Route exact path="/entertainment" component={<News pageSize={5} country="in" category="entertainment"/>}/>
+<Route exact path="/general" component={<News pageSize={5} country="in" category="general"/>}/>
+<Route exact path="/health" component={<News pageSize={5} country="in" category="health"/>}/>
+<Route exact path="/science" component={<News pageSize={5} country="in" category="science"/>}/>
+<Route exact path="/sports" component={<News pageSize={5} country="in" category="sports"/>}/>
+<Route exact path="/technology" component={<News pageSize={5} country="in" category="technology"/>}/>
+
